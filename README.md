@@ -8,7 +8,7 @@ Collab Chamber uses React Router to navigate across the home, create, projects, 
 1. Signup (with avatar), login and logout.
 2. View dashboard (by default) and option to add new project in the navbar.
 3. View list of users in the sidebar (alongside a green symbol for online users).
-4. Create new projects using the "New Project" option (ame, details, due date, category, assign to).
+4. Create new projects using the "New Project" option (name, details, due date, category, assign to).
 5. View list of all projects in the dashboard.
 6. Allow users to view project details upon click a project item in the dashboard.
 7. Allow users to add comments in the project details pages.
