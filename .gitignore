@@ -9,8 +9,8 @@
 /coverage
 
 # production
-.firebase
 /build
+.firebase
 
 # misc
 .DS_Store
